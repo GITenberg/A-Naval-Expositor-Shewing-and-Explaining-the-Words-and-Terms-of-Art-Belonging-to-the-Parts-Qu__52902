@@ -1,11 +1,16 @@
 _repo: A-Naval-Expositor-Shewing-and-Explaining-the-Words-and-Terms-of-Art-Belonging-to-the-Parts-Qu__52902
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52902-h/images/cover.jpg
 creator:
   author:
     agent_name: Blanckley, Thomas Riley
     gutenberg_agent_id: '47110'
     url: http://www.gutenberg.org/2009/agents/47110
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52902#A-Naval-Expositor-Shewing-and-Explaining-the-Words-and-Terms-of-Art-Belonging-to-the-Parts-Qu_
 gutenberg_issued: '2016-08-27'
 gutenberg_type: Text
 identifiers:
