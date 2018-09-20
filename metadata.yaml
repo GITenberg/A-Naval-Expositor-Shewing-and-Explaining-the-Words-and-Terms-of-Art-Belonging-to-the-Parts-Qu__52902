@@ -1,0 +1,24 @@
+_repo: A-Naval-Expositor-Shewing-and-Explaining-the-Words-and-Terms-of-Art-Belonging-to-the-Parts-Qu__52902
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blanckley, Thomas Riley
+    gutenberg_agent_id: '47110'
+    url: http://www.gutenberg.org/2009/agents/47110
+description: ''
+gutenberg_issued: '2016-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52902'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'V'
+- !lcsh 'Naval art and science -- Dictionaries'
+- GITenberg
+title: "A Naval Expositor\r\nShewing and Explaining the Words and Terms of Art Belonging\
+  \ to the Parts, Qualities and Proportions of Building, Rigging, Furnishing, & Fitting\
+  \ a Ship for Sea"
+url: http://www.gutenberg.org/ebooks/52902
